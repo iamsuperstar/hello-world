@@ -1,2 +1,2 @@
 # hello-world
-about sth
+sth what i did
